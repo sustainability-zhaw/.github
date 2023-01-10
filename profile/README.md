@@ -2,4 +2,4 @@
 
 This organisation contains services and components for SDG mapping. 
 
-![Service Map](.github/profile/services_map.png)
+![Service Map](profile/services_map.png)
