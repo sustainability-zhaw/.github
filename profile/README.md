@@ -2,7 +2,7 @@
 
 This organisation contains services and components for SDG mapping. 
 
-![Service Map](profile/services_map.png)
+![Service Map](https://raw.githubusercontent.com/sustainability-zhaw/.github/main/profile/services_map.png)
 
 In the above roadmap the service repositories are marked in orange and courier-font.
 
