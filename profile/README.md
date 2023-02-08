@@ -1,6 +1,11 @@
 # SDG Indexing and Dashboard 
 
-This organisation contains services and components for SDG mapping. 
+This organisation contains services and components for SDG mapping for our tiny interactive Dashboard. 
+
+![Dashboard](https://raw.githubusercontent.com/sustainability-zhaw/.github/main/profile/teaser_screen.png)
+
+
+The System relies on several micro-services that are available as customisable Docker Containers. 
 
 ![Service Map](https://raw.githubusercontent.com/sustainability-zhaw/.github/main/profile/services_map.png)
 
