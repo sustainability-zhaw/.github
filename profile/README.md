@@ -9,7 +9,7 @@ The System relies on several micro-services that are available as customisable D
 
 ![Service Map](https://raw.githubusercontent.com/sustainability-zhaw/.github/main/profile/services_map.png)
 
-In the above roadmap the service repositories are marked in orange and courier-font.
+In the above roadmap the blue components are visible to users, while the orange boxes are backend services that run without user interaction. The grey blocks refer to readymade components that are used by the project but contain no business logic. The  boxes with dashed grey outline refer to external logic that are not part of the business logic. The boxes with dashed orange outline are data components without business logic. 
 
 Users primarily interact with the [keywords](https://github.com/sustainability-zhaw/keywords) respository. 
 
